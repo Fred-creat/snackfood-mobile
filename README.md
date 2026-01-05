@@ -1,37 +1,50 @@
-# Snack FOOD Expo App
+# SnackFOOD 🍔📱
 
-Este é um aplicativo mobile desenvolvido em React Native com Expo, que apresenta um cardápio digital de bolos, doces e salgados.
+Aplicação mobile desenvolvida em **React Native com Expo**, focada em pedidos de comida, integrada a um **backend real em Node.js**.
 
-## Funcionalidades
-- Tela inicial de boas-vindas
-- Menu principal com categorias: Bolos, Doces e Salgados
-- Visualização dos produtos de cada categoria, com imagem, preço e recheio (quando aplicável)
-- Layout moderno e responsivo
-
-## Estrutura de Pastas
-```
-SnackFOOD_ExpoApp vscode/
-├── App.js
-├── app.json
-├── eas.json
-├── index.jsx
-├── assets/
-│   └── images/
-│       └── (imagens dos produtos)
-├── components/
-│   ├── Layout.jsx
-│   └── ProductCard.jsx
-├── screens/
-│   ├── HomeScreen.jsx
-│   ├── MenuScreen.jsx
-```
-
-
-## Dependências principais
-- react-native
-- expo
-- react-navigation
-
+Projeto criado com o objetivo de praticar e demonstrar:
+- desenvolvimento mobile
+- integração com APIs REST
+- organização de estado
+- comunicação frontend ↔ backend
 
 ---
-Desenvolvido por Fredson Maikon
+
+## 🚀 Funcionalidades
+
+- Listagem de produtos
+- Criação de pedidos
+- Comunicação com API REST
+- Integração com backend real
+- App funcional rodando via Expo
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React Native
+- Expo
+- JavaScript
+- Axios
+- Node.js (API externa)
+- Git
+
+---
+
+## 📱 Status do Projeto
+
+MVP funcional.  
+Autenticação e melhorias de UX estão em evolução.
+
+---
+
+## ▶️ Como Rodar o Projeto
+
+```bash
+npm install
+npx expo start
+
+🔗 Backend do Projeto
+
+O backend deste projeto está disponível em repositório separado:
+👉 [link do backend aqui]
