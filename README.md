@@ -47,4 +47,4 @@ npx expo start
 🔗 Backend do Projeto
 
 O backend deste projeto está disponível em repositório separado:
-👉 [link do backend aqui]
+👉 https://github.com/Fred-creat/server-appsnack
